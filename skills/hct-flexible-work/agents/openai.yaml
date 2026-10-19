@@ -1,0 +1,4 @@
+interface:
+  display_name: "HCT 시차출퇴근"
+  short_description: "HCT 시차출퇴근의 기간·근무조 선택과 신청 상태 확인"
+  default_prompt: "$hct-flexible-work 스킬로 HCT 시차출퇴근 신청에 필요한 기간과 근무조를 확인해 줘."

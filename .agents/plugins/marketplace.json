@@ -1,0 +1,20 @@
+{
+  "name": "hct-team",
+  "interface": {
+    "displayName": "HCT 팀 업무 플러그인"
+  },
+  "plugins": [
+    {
+      "name": "hct-office",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
